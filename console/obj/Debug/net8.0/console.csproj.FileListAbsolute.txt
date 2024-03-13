@@ -1,0 +1,14 @@
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\bin\Debug\net8.0\console.exe
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\bin\Debug\net8.0\console.deps.json
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\bin\Debug\net8.0\console.runtimeconfig.json
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\bin\Debug\net8.0\console.dll
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\bin\Debug\net8.0\console.pdb
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\obj\Debug\net8.0\console.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\obj\Debug\net8.0\console.AssemblyInfoInputs.cache
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\obj\Debug\net8.0\console.AssemblyInfo.cs
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\obj\Debug\net8.0\console.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\obj\Debug\net8.0\console.dll
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\obj\Debug\net8.0\refint\console.dll
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\obj\Debug\net8.0\console.pdb
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\obj\Debug\net8.0\console.genruntimeconfig.cache
+D:\PROYECTOS\CURSO-TEST-Xunit\demo\console\obj\Debug\net8.0\ref\console.dll
